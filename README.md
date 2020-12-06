@@ -1,4 +1,4 @@
-# dice_app
+# dis_app
 
 A new Flutter application.
 
